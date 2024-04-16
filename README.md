@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Candor](https://constant-goods-383415.uc.r.appspot.com/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Express JS**
 
 - 💬 Ask me about **react , vue**
 
